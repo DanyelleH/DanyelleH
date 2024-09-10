@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanyelleH
+- 👋 Hi, I’m @DannieH
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
