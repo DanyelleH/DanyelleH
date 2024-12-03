@@ -14,3 +14,6 @@ Hi there! 👋 I’m Danyelle!
 🌱 What I’m Learning
 	•	Diving deeper into JavaScript frameworks like React.
 	•	Building small projects in Python for web scraping and automation.
+🔗 Profiles
+	• LinkedIn : www.linkedin.com/in/danyellehenriquez
+
