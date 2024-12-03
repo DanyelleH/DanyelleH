@@ -13,6 +13,10 @@ Hey! 👋 I’m Danyelle!
 🌱 What I’m Learning<br>
     •	Diving deeper into JavaScript frameworks like React. <br>
     •	Building small projects in Python for web scraping and automation. <br><br>
-
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></a><br><br>
 🔗 Profiles <br>
     • LinkedIn : www.linkedin.com/in/danyellehenriquez <br>
