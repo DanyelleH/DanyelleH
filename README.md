@@ -18,3 +18,5 @@ Hey! 👋 I’m Danyelle!<br>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></a><br><br>
 </div>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/DanyelleH?theme=radical&font=Comic%20Neue&ext=heatmap)
