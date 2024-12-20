@@ -7,7 +7,7 @@ Hey! 👋 I’m Danyelle!<br>
     •	🎓 Education: Bachelor’s in Biomedical Sciences.<br>
     •	💻 Career Goals: Transitioning from medical sciences to software development.<br>
     •	👩‍👧‍👦 Life Goals: Work remotely to enjoy more time with my family.<br>
-    •	🎮 Hobbies: Gaming, listening to music, and coding fun side projects.<br><br>
+    •	🎮 Hobbies: Gaming, listening to music, and advancing coding skills.<br><br>
 🌱 What I’m Learning<br>
     •	Diving deeper into JavaScript frameworks like React. <br>
     •	Building small projects in Python for web scraping and automation. <br><br>
