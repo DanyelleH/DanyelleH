@@ -22,4 +22,4 @@ Hey! 👋 I’m Danyelle!<br>
 
 </div>
 
-<!--- ![LeetCode Stats](https://leetcard.jacoblin.cool/DanyelleH?theme=radical&font=Comic%20Neue&ext=heatmap) --->
+![LeetCode Stats](https://leetcard.jacoblin.cool/DanyelleH?theme=radical&font=Comic%20Neue&ext=heatmap)
