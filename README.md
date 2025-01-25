@@ -9,8 +9,9 @@ Hey! 👋 I’m Danyelle!<br>
     •	👩‍👧‍👦 Life Goals: Work remotely to enjoy more time with my family.<br>
     •	🎮 Hobbies: Gaming, listening to music, and advancing coding skills.<br><br>
 🌱 What I’m Learning<br>
-    •	Diving deeper into JavaScript frameworks like React. <br>
-    •	Building small projects in Python for web scraping and automation. <br><br>
+    •	🚀 Diving deeper into JavaScript frameworks like React. <br>
+    •	🐍 Building small projects in Python for web scraping and automation. <br>
+    •	🌐 Deepening my understanding of backend development and improving my problem-solving skills.<br><br>
 
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50"></a>
