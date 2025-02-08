@@ -13,13 +13,15 @@ Hey! 👋 I’m Danyelle!<br>
     •	🐍 Building small projects in Python for web scraping and automation. <br>
     •	🌐 Deepening my understanding of backend development and improving my problem-solving skills.<br><br>
 
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/django.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></a><br><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" width="50"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" width="50"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-plain.svg" width="50"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" width="50"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-plain.svg" width="50"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/django/django-plain.svg" width="50"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg" width="50"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg" width="50"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg" width="50"></a><br><br>
 
 </div>
 
