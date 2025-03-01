@@ -24,5 +24,6 @@ Hey! 👋 I’m Danyelle!<br>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg" width="50"></a><br><br>
 
 </div>
+<!--- 
+![LeetCode Stats](https://leetcard.jacoblin.cool/DanyelleH?theme=radical&font=Comic%20Neue&ext=heatmap) --->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DanyelleH?theme=radical&font=Comic%20Neue&ext=heatmap)
