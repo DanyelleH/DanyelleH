@@ -4,12 +4,12 @@ You can click the Preview link to take a look at your changes.
 --->
 Hey! 👋 I’m Danyelle!<br>
 🌟 About Me<br>
-    •	🎓 Education: Bachelor’s in Biomedical Sciences.<br>
+    •	🎓 Education: BS in Biomedical Sciences.<br>
     •	💻 Career Goals: Transitioning from medical sciences to software development.<br>
-    •	👩‍👧‍👦 Life Goals: Work remotely to enjoy more time with my family.<br>
-    •	🎮 Hobbies: Gaming, listening to music, and advancing coding skills.<br><br>
+    •	👩‍👧‍👦 Life Goals: Maintain a rewarding career with a team that values work life balance, put quality over quantity, and are Great People.<br>
+    •	🎮 Hobbies: Gaming, Music, and Learning.<br><br>
 🌱 What I’m Learning<br>
-    •	🚀 Diving deeper into JavaScript frameworks like React. <br>
+    •	🚀 Diving deeper into JavaScript frameworks like React, and AI/ML. <br>
     •	🐍 Building small projects in Python for web scraping and automation. <br>
     •	🌐 Deepening my understanding of backend development and improving my problem-solving skills.<br><br>
 
