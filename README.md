@@ -5,12 +5,12 @@ You can click the Preview link to take a look at your changes.
 Hey! 👋 I’m Danyelle!<br>
 🌟 About Me<br>
     •	🎓 Education: BS in Biomedical Sciences.<br>
-    •	💻 Career Goals: Transitioning from medical sciences to software development.<br>
+    •	💻 Career Goals: Transitioning from medical sciences to software development. Looking to apply my skills to build life changing technical solutions.<br>
     •	👩‍👧‍👦 Life Goals: Maintain a rewarding career with a team that values work life balance, put quality over quantity, and are Great People.<br>
     •	🎮 Hobbies: Gaming, Music, and Learning.<br><br>
 🌱 What I’m Learning<br>
-    •	🚀 Diving deeper into JavaScript frameworks like React, and AI/ML. <br>
-    •	🐍 Building small projects in Python for web scraping and automation. <br>
+    •	🚀 Improving my skills in React, improving ML/AI integration knowledge and learning different Python Libraries. <br>
+    •	🐍 Building applications that integrate AI and ML technologies. <br>
     •	🌐 Deepening my understanding of backend development and improving my problem-solving skills.<br><br>
 
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" width="50"></a>
