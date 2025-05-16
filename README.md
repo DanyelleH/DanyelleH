@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 Hey! 👋 I’m Danyelle!<br>
 🌟 About Me<br>
-    •	🎓 Education: BS in Biomedical Sciences.<br>
+    •	🎓 Education: BS in Biomedical Sciences, Full Stack Software Engineering Bootcamp.<br>
     •	💻 Career Goals: Transitioning from medical sciences to software development. Looking to apply my skills to build life changing technical solutions.<br>
-    •	👩‍👧‍👦 Life Goals: Maintain a rewarding career with a team that values work life balance, put quality over quantity, and are Great People.<br>
+    •	👩‍👧‍👦 Life Goals: Maintain a rewarding career with a team that values work life balance, putting quality over quantity, and are Great People.<br>
     •	🎮 Hobbies: Gaming, Music, and Learning.<br><br>
 🌱 What I’m Learning<br>
     •	🚀 Improving my skills in React, improving ML/AI integration knowledge and learning different Python Libraries. <br>
